@@ -201,6 +201,7 @@ int main ()
         try
         {
           cout << "\nMenu" << endl;
+          cout << "1. Add a record to the list" << endl;
           
         }
   }
