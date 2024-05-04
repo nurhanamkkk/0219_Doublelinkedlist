@@ -200,12 +200,9 @@ int main ()
      {
         try
         {
-            
+          cout << "\nMenu" << endl;
+          
         }
-        catch(const std::exception& e)
-        {
-            std::cerr << e.what() << '\n';
-        }
-        
-     }
+  }
 }
+ 
