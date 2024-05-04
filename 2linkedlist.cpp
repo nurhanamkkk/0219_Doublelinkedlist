@@ -45,6 +45,10 @@ void addNote() {
         Node *previous = NULL; // step 1.b : previous node is NULL initially
 
         while (current != NULL && current->noMhs < newNode->noMhs) 
-           
+
+  {
+    
+  }         
   } 
+
 }
