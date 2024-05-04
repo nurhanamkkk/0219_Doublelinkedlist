@@ -213,7 +213,10 @@ int main ()
 
             switch (ch)
              {
-                
+                 case '1' :
+                  addNode();
+                  break;
+                 
              }
         }
   }
