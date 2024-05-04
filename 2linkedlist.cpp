@@ -216,6 +216,9 @@ int main ()
                  case '1' :
                   addNode();
                   break;
+                 case '2':
+                  deleteNode();
+                  break;
                  
              }
         }
