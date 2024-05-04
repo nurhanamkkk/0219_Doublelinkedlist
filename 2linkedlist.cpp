@@ -56,6 +56,12 @@ void addNote() {
 
      newNode->next = current; // step 4 : make the next field of the new node point to current
 
+     newNode->prev = previous; // step 5 : Maake the previous field of the new node point to previous
+    
+    if (current != NULL)
+    {
+        
+    }
 
   } 
 
