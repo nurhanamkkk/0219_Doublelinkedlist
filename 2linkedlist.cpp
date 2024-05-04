@@ -54,7 +54,8 @@ void addNote() {
 
   }         
 
-  
+     newNode->next = current; // step 4 : make the next field of the new node point to current
+
 
   } 
 
