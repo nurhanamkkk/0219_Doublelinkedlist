@@ -202,6 +202,7 @@ int main ()
         {
           cout << "\nMenu" << endl;
           cout << "1. Add a record to the list" << endl;
+          cout << "2. Delete a record from the list" << endl;
           
         }
   }
