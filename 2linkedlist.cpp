@@ -47,8 +47,11 @@ void addNote() {
         while (current != NULL && current->noMhs < newNode->noMhs) 
 
   {
+                               // step 1.c : traverse the list to find the correct position
+
     
   }         
+
   } 
 
 }
