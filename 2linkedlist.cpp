@@ -50,8 +50,11 @@ void addNote() {
                                // step 1.c : traverse the list to find the correct position
 
     previous = current;          // step 1.d : move the previous to the current node
+    current = current->next;     // step 1.e : move the current to the next node
 
   }         
+
+  
 
   } 
 
