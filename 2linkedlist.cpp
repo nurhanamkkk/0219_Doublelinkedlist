@@ -60,8 +60,14 @@ void addNote() {
     
     if (current != NULL)
     {
-        
+         current->prev = newNode; // step 6 : Make the previous field of the current node point to the new node 
+
     }
+
+     if (previous != NULL)
+      {
+        
+      }
 
   } 
 
